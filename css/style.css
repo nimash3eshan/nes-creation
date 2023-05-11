@@ -1605,6 +1605,10 @@ Responsive
 	.container {
 		max-width: 1176px;
 	}
+	iframe{
+		height: 315px;
+		width: 560px;
+	}
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1360px) {
@@ -1648,6 +1652,10 @@ Responsive
 	}
 	.character-three .character-img {
 		width: 44%;
+	}
+	iframe{
+		height: 315px;
+		width: 560px;
 	}
 }
 
